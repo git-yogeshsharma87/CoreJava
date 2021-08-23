@@ -11,7 +11,7 @@ public class AllTypeOfListDemo {
 		// Array List
 		List<String> listOfCompanies = new ArrayList<String>();
 		listOfCompanies.add("Dell");
-		listOfCompanies.add("Simplilearn");
+		listOfCompanies.add("Mahindra");
 		listOfCompanies.add("Wipro");
 		listOfCompanies.add("HCL");
 		listOfCompanies.add("TCS");
